@@ -1,0 +1,9 @@
+data_rl/
+experimental_data/
+results/
+results-closed-loop-ave/
+results-closed-loop-trend/
+results-open-loop/
+tmp_models/
+Feedback/
+.ipynb_checkpoints/
